@@ -1,8 +1,8 @@
-package com.captainyun7.ch2examples._04_3tiers_crud.config;
+package com.example.ch2examples._04_3tiers_crud.config;
 
 
-import com.captainyun7.ch2examples._04_3tiers_crud.domain.Post;
-import com.captainyun7.ch2examples._04_3tiers_crud.repository.PostRepository;
+import com.example.ch2examples._04_3tiers_crud.domain.Post;
+import com.example.ch2examples._04_3tiers_crud.repository.PostRepository;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Component;
 

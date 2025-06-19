@@ -1,9 +1,9 @@
-package com.captainyun7.ch2examples._04_3tiers_crud.controller;
+package com.example.ch2examples._04_3tiers_crud.controller;
 
-import com.captainyun7.ch2examples._04_3tiers_crud.dto.PostCreateRequest;
-import com.captainyun7.ch2examples._04_3tiers_crud.dto.PostResponse;
-import com.captainyun7.ch2examples._04_3tiers_crud.dto.PostUpdateRequest;
-import com.captainyun7.ch2examples._04_3tiers_crud.service.PostService;
+import com.example.ch2examples._04_3tiers_crud.dto.PostCreateRequest;
+import com.example.ch2examples._04_3tiers_crud.dto.PostResponse;
+import com.example.ch2examples._04_3tiers_crud.dto.PostUpdateRequest;
+import com.example.ch2examples._04_3tiers_crud.service.PostService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

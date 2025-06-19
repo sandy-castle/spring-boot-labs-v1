@@ -1,4 +1,4 @@
-package com.captainyun7.ch2examples._04_3tiers_crud.exception;
+package com.example.ch2examples._04_3tiers_crud.exception;
 
 public class PostNotFoundException extends RuntimeException {
     public PostNotFoundException(Long id) {

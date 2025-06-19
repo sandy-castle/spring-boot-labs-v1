@@ -1,6 +1,6 @@
-package com.captainyun7.ch2examples._04_3tiers_crud.repository;
+package com.example.ch2examples._04_3tiers_crud.repository;
 
-import com.captainyun7.ch2examples._04_3tiers_crud.domain.Post;
+import com.example.ch2examples._04_3tiers_crud.domain.Post;
 import org.springframework.stereotype.Repository;
 
 import java.util.*;

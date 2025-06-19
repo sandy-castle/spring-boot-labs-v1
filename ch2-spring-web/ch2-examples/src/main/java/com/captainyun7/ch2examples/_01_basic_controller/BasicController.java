@@ -1,4 +1,4 @@
-package com.captainyun7.ch2examples._01_basic_controller;
+package com.example.ch2examples._01_basic_controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;

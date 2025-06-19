@@ -1,4 +1,4 @@
-package com.captainyun7.ch2examples._03_rest_controller;
+package com.example.ch2examples._03_rest_controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

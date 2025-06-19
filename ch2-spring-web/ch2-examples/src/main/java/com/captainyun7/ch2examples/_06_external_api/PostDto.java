@@ -1,4 +1,4 @@
-package com.captainyun7.ch2examples._06_external_api;
+package com.example.ch2examples._06_external_api;
 
 import lombok.*;
 

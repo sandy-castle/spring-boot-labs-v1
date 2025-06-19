@@ -1,4 +1,4 @@
-package com.captainyun7.ch2examples._05_validation;
+package com.example.ch2examples._05_validation;
 
 import jakarta.validation.constraints.*;
 import lombok.Getter;

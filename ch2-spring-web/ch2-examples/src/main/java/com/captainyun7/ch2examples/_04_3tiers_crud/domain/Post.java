@@ -1,4 +1,4 @@
-package com.captainyun7.ch2examples._04_3tiers_crud.domain;
+package com.example.ch2examples._04_3tiers_crud.domain;
 
 
 import lombok.AllArgsConstructor;

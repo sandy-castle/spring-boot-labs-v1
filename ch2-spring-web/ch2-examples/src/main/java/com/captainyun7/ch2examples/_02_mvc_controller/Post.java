@@ -1,4 +1,4 @@
-package com.captainyun7.ch2examples._02_mvc_controller;
+package com.example.ch2examples._02_mvc_controller;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

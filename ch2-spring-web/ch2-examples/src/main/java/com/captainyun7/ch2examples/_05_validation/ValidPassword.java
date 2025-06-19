@@ -1,4 +1,4 @@
-package com.captainyun7.ch2examples._05_validation;
+package com.example.ch2examples._05_validation;
 
 
 //8자리 이상

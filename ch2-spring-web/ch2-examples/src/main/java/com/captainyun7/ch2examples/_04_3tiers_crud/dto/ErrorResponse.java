@@ -1,4 +1,4 @@
-package com.captainyun7.ch2examples._04_3tiers_crud.dto;
+package com.example.ch2examples._04_3tiers_crud.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

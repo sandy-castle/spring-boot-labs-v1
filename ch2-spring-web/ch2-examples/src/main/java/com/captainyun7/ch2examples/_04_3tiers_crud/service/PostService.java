@@ -1,11 +1,11 @@
-package com.captainyun7.ch2examples._04_3tiers_crud.service;
+package com.example.ch2examples._04_3tiers_crud.service;
 
-import com.captainyun7.ch2examples._04_3tiers_crud.domain.Post;
-import com.captainyun7.ch2examples._04_3tiers_crud.dto.PostCreateRequest;
-import com.captainyun7.ch2examples._04_3tiers_crud.dto.PostResponse;
-import com.captainyun7.ch2examples._04_3tiers_crud.dto.PostUpdateRequest;
-import com.captainyun7.ch2examples._04_3tiers_crud.exception.PostNotFoundException;
-import com.captainyun7.ch2examples._04_3tiers_crud.repository.PostRepository;
+import com.example.ch2examples._04_3tiers_crud.domain.Post;
+import com.example.ch2examples._04_3tiers_crud.dto.PostCreateRequest;
+import com.example.ch2examples._04_3tiers_crud.dto.PostResponse;
+import com.example.ch2examples._04_3tiers_crud.dto.PostUpdateRequest;
+import com.example.ch2examples._04_3tiers_crud.exception.PostNotFoundException;
+import com.example.ch2examples._04_3tiers_crud.repository.PostRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
