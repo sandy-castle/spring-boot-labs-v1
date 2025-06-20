@@ -1,1 +1,3 @@
-rootProject.name = 'ch4-labs'
+rootProject.name = 'spring-boot-labs-v1'  // 이건 프로젝트 이름
+
+include 'ch4-labs'                        // ✅ 이게 진짜 필요한 줄!

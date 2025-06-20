@@ -1,4 +1,8 @@
+
+
 package com.example.ch4labs.repository;
 
-public class ReviewRepository {
-}
+import org.springframework.data.jpa.repository.JpaRepository; // ✅ 이게 필요한 import 문
+import com.example.ch4labs.domain.Review;
+
+public interface ReviewRepository extends JpaRepository<Review, Long> {}
