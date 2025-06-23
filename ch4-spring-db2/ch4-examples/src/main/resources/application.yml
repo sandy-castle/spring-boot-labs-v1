@@ -3,13 +3,17 @@ spring:
     url: jdbc:mysql://localhost:3306/springdb
     username: root
     password: pass1234
+<<<<<<< HEAD
     driver-class-name: com.mysql.cj.jdbc.Driver
+=======
+>>>>>>> upstream/main
 
   jpa:
     hibernate:
       ddl-auto: update
     properties:
       hibernate:
+<<<<<<< HEAD
         dialect: org.hibernate.dialect.MySQL8Dialect
     show-sql: true
 
@@ -18,3 +22,8 @@ spring:
       enabled: false
     livereload:
       enabled: false
+=======
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+      show-sql: true
+      format-sql: true
+>>>>>>> upstream/main
